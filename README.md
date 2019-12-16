@@ -1,2 +1,2 @@
-# taller-nodejs
-Repositorio para el taller de NodeJS del Heading to Codefest
+# Taller de GIT
+Repositorio para el taller de GIT del Heading to Codefest
