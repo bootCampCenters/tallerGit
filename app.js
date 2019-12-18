@@ -45,5 +45,5 @@ app.get('/numdias', function(req, res) {
 });
 
 app.listen(3000, function() {
-    console.log('Taller NodeJS app listening on port 3000!');
+    console.log('Taller GIT app listening on port 3000!');
 });
