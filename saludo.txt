@@ -1,7 +1,3 @@
-var express = require('express');
-var moment = require('moment');
-var app = express();
-
 app.get('/', function(req, res) {
     res.send('Hola, bienvenido al Heading To Codefest');
 });
@@ -15,10 +11,4 @@ app.get('/saludo', function(req, res) {
     else {
         res.send('Hola, bienvenido al Heading To Codefest');
     }
-});
-
-/* Num dias */
-
-app.listen(3000, function() {
-    console.log('Taller NodeJS app listening on port 3000!');
 });
